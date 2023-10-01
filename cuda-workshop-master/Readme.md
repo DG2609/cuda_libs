@@ -1,4 +1,4 @@
-# CUDA Workshop Projects
+# CUDA Projects
 
 Here is an organized folder to develop CUDA applications which should work unchanged under Mac OS X, Linux or Windows.
 
